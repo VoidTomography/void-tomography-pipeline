@@ -11,8 +11,6 @@ This repository includes a series of working papers developing the Void Tomograp
 
 ## Observational Framework
 
-5. Depth-Slicing Method  
-6. CMB Calibration  
-7. Tomographic Reconstruction  
+5. CMB anisotropy
 
 Readers interested in the data pipeline may begin with Papers 5–7.
