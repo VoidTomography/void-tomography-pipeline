@@ -13,4 +13,4 @@ This repository includes a series of working papers developing the Void Tomograp
 
 5. CMB anisotropy
 
-Readers interested in the data pipeline may begin with Papers 5–7.
+
